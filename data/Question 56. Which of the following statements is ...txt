@@ -1,0 +1,2 @@
+Question 56. Which of the following statements is not true
+D. Azure Advisor provides reporting for the health and status of Azure services.

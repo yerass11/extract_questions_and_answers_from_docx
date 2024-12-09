@@ -1,0 +1,2 @@
+Question 76. You are working at a startup with a tight budget. Why might you prefer Azure data storage over an on-premises solution
+D. The Azure pay-as-you-go billing model lets you avoid buying expensive hardware.

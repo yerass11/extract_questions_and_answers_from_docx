@@ -1,0 +1,2 @@
+Question 133. Azure Blueprints enables cloud architects and central information technology groups to define a repeatable set of Azure resources that implements and adheres to an organization’s standards. You can use tags to automate the shutdown and startup of virtual machines in development environments.
+A. TRUE

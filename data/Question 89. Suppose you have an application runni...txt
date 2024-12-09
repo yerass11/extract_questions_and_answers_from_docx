@@ -1,0 +1,2 @@
+Question 89. Suppose you have an application running locally on your own server. You reach the point that you need additional capacity but you don’t want to buy upgraded on-premises hardware, so you decide to move to Azure. Which compute option would give you the quickest route to getting your application running in Azure
+D. Virtual Machine

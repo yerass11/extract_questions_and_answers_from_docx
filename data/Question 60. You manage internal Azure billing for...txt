@@ -1,0 +1,2 @@
+Question 60. You manage internal Azure billing for your organization, allocating costs to various departments based on their consumption of Azure services. Which of the following would you use to define budgets for subscriptions
+B. Azure Cost Management

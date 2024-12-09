@@ -1,0 +1,2 @@
+Question 71. Which of the following terms can be described as an emulation of a computer – just like your desktop or laptop that includes an operating system and hardware
+D. VM

@@ -1,0 +1,2 @@
+Question 31. Which of the following is an example of authorization
+Granting permission to access a specific resource.

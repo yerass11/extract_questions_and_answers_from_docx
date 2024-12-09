@@ -1,0 +1,2 @@
+Question 109. Which of the following Azure services allows you to segregate duties within your team and grant only the amount of access to users that they need to perform their jobs
+D. Role-based Access Control

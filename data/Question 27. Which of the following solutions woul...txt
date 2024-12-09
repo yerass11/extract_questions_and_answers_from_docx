@@ -1,0 +1,2 @@
+Question 27. Which of the following solutions would enable only you and one of your peers to access and manage an Azure VM using RDP on port 3389
+Network Security Group (NSG)

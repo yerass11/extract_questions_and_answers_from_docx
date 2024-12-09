@@ -1,0 +1,2 @@
+Question 9. Which of the following accurately describes an Azure geography
+A. It corresponds to a single country or to a market encompassing multiple countries.

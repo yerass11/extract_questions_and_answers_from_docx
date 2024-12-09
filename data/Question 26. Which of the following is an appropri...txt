@@ -1,0 +1,2 @@
+Question 26. Which of the following is an appropriate solution for placing video files and large documents close to where your globally dispersed users are located to reduce latency
+Azure Content Delivery Network (CDN)

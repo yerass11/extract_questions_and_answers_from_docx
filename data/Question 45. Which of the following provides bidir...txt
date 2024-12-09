@@ -1,0 +1,2 @@
+Question 45. Which of the following provides bidirectional communication between Internet of Things (IoT) devices and other Azure services
+A. IoT Hub

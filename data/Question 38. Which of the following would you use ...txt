@@ -1,0 +1,2 @@
+Question 38. Which of the following would you use to ensure that the VMs added to a resource group do not exceed certain limits for the number of CPU cores and memory
+Azure Policy

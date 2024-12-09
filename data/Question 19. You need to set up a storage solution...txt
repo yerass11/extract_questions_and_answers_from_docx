@@ -1,0 +1,2 @@
+Question 19. You need to set up a storage solution in Azure to enable you to store the state of an application from one execution of the application to the next. Which of the following storage solutions provide that capability
+C. Azure Files

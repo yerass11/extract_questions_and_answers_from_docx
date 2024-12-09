@@ -1,0 +1,2 @@
+Question 90. Structured data is the data that adheres to a schema, so all of the data has the same fields or properties.
+A. TRUE

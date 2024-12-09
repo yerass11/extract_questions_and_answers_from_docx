@@ -1,0 +1,2 @@
+Question 49. Which of the following enables developers to create serverless workflow solutions in Azure
+A. Logic Apps

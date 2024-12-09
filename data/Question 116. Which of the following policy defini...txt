@@ -1,0 +1,2 @@
+Question 116. Which of the following policy definitions has a set of conditionsrules to specify the resource types that your organization can deploy
+B. Allowed Resource Type

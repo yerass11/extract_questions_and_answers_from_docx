@@ -1,0 +1,2 @@
+Question 2. Which of the following tools can you use to estimate the expense of moving a data center from on-premises to Azure
+C. Azure TCO Calculator

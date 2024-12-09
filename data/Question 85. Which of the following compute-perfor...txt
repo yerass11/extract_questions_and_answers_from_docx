@@ -1,0 +1,2 @@
+Question 85. Which of the following compute-performing techniques in Azure is a software emulation of physical computers that includes a virtual processor, memory, storage, and networking resources
+D. Virtual Machine

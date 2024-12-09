@@ -1,0 +1,2 @@
+Question 12. You are deploying three VMs in a single region as web front ends to a web application. You need to ensure that power outages or other potential data center outages do not make your web application unavailable. Which of the following achieves this goal
+C. You place the VMs in different availability zones.

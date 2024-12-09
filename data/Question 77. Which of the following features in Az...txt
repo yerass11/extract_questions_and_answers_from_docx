@@ -1,0 +1,2 @@
+Question 77. Which of the following features in Azure ensures redundancy and higher availability of VMs
+A. Availability set

@@ -1,0 +1,2 @@
+Question 54. You have been tasked by the director of infrastructure at your organization to estimate the cost of moving a data center from on-premises to Azure. Which of the following should you use to estimate the cost
+C. TCO Calculator

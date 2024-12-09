@@ -1,0 +1,2 @@
+Question 115. Where can you download published audit reports and other compliance-related information related to Microsoft’s cloud service
+C. Microsoft Trust Center

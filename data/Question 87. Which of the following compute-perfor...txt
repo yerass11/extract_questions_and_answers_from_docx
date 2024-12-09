@@ -1,0 +1,2 @@
+Question 87. Which of the following compute-performing techniques in Azure is a platform-as-a-service (PaaS) that is designed to host enterprise-grade web-oriented applications
+B. Azure App Service

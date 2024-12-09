@@ -1,0 +1,2 @@
+Question 61. You have a solution in Azure comprising two VMs, each with a 99.5% SLA. What is the composite SLA for the solution
+A. 99.0%

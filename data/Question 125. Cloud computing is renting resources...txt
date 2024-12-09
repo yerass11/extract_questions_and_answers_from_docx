@@ -1,0 +1,2 @@
+Question 125. Cloud computing is renting resources, like storage space or CPU cycles, on another company’s computers.
+A. TRUE

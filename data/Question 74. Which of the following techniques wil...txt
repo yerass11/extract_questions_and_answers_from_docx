@@ -1,0 +1,2 @@
+Question 74. Which of the following techniques will you use to build and host web apps, mobile backends, andor RESTful APIs without managing infrastructure
+C. Azure App Service

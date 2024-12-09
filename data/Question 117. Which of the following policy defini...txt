@@ -1,0 +1,2 @@
+Question 117. Which of the following policy definitions enables you to restrict the locations that your organization can specify when deploying resources
+C. Allowed Locations

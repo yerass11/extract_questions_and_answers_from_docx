@@ -1,0 +1,2 @@
+Question 3. The term agility in Microsoft Azure refers to
+B. The ability to quickly adjust resources such as memory to adapt to changes in demand

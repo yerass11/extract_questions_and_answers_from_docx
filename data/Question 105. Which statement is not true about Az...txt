@@ -1,0 +1,2 @@
+Question 105. Which statement is not true about Azure role-based access control (Azure RBAC)
+B. You can't manage what users can do with Azure resources

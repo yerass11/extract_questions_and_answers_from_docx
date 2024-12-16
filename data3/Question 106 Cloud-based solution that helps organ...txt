@@ -1,0 +1,2 @@
+Question 106 Cloud-based solution that helps organizations classify and optionally protect documents and emails by applying labels
+A. Microsoft Azure Information Protection

@@ -1,0 +1,2 @@
+Question 13. Which of the following use cases are good candidates for spot instances
+A. Big data processing workloads, C. Continuous integration development environments

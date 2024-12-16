@@ -1,0 +1,2 @@
+Question: Question 32. Which of the following capabilities requires Azure AD Premium
+Answer: Conditional Access

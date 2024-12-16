@@ -1,0 +1,2 @@
+Question 69. Which of the following describes an EC2 dedicated instance
+A. An EC2 instance running on a physical host reserved for the exclusive use of a single AWS account.

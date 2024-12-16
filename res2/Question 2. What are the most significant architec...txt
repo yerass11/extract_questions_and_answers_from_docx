@@ -1,0 +1,2 @@
+Question 2. What are the most significant architectural benefits of the way AWS designed its regions
+B. It can make applications available to end users with lower latency, C. It can make applications more compliant with local regulations.

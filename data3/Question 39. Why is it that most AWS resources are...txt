@@ -1,0 +1,2 @@
+Question 39. Why is it that most AWS resources are tied to a single region
+A. Because those resources are run on a physical device, and that device must live somewhere

@@ -1,0 +1,2 @@
+Question: Question 62. Microsoft provides at least 30 days’ notice before it retires an Azure service.
+Answer: B. 12 months

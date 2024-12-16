@@ -1,0 +1,2 @@
+Question 25. What two databases is Amazon Aurora compatible with
+A. MySQL, B. PostgreSQL

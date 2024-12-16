@@ -1,0 +1,2 @@
+Question 21 The most cost-efficient data solution for storing and retrieving sales data using SQL statements
+Azure SQL Database

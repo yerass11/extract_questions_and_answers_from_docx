@@ -1,0 +1,2 @@
+Question 68. When describing EC2 instance types, what is the role played by the vCPU metric
+D. vCPUs represent an instance type’s compute power compared to the number of processors on a physical machine.

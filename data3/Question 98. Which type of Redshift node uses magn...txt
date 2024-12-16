@@ -1,0 +1,2 @@
+Question 98. Which type of Redshift node uses magnetic storage
+B. Dense compute.

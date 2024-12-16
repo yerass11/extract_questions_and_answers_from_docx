@@ -1,0 +1,5 @@
+Question 99 Consider an App Service web app that writes to Azure SQL Database. These Azure Services currently have the following SLAs
+• Web App 99.92%
+• SQL Database 99.97%
+Which of the following is the composite SLA value for this application
+D. 99.89%

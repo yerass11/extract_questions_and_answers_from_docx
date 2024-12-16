@@ -1,0 +1,2 @@
+Question 5. Which of the following are requirements you can include in an IAM password policy (Select THREE.)
+A. Require at least one uppercase letter, B. Require at least one number, D. Require at least one nonalphanumeric character

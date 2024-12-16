@@ -1,0 +1,2 @@
+Question: Question 8. Deploying virtual machines (VMs) in a shared cloud environment is an example of
+Answer: A. Infrastructure-as-a-service (IaaS)

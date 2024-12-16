@@ -1,0 +1,2 @@
+Question: Question 73. Which of the following computing choices uses the model ‘only have to pay for the services you use’
+Answer: A. Serverless computing

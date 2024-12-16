@@ -1,0 +1,2 @@
+Question 102. Which of the following is a valid CIDR for a VPC or subnet
+10.0.0.0/28.

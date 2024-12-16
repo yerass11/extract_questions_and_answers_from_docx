@@ -1,0 +1,2 @@
+Question 21. You need an easy way to transfer files from a server in your data center to S3 without having to install any third-party software. Which of the following services and storage protocols could you use
+A. AWS Storage Gateway—file gateway, B. iSCSI, D. SMB, E. AWS Storage Gateway—volume gateway

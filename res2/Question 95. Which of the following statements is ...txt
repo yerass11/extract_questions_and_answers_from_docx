@@ -1,0 +1,2 @@
+Question 95. Which of the following statements is true regarding a DynamoDB table
+D. Items in a table don’t have to have all the same attributes.

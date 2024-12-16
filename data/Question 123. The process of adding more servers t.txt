@@ -1,0 +1,2 @@
+Question: Question 123. The process of adding more servers that function together as one unit is known as Horizontal Scaling.
+Answer: A. TRUE

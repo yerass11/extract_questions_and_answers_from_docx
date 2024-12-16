@@ -1,0 +1,2 @@
+Question 4. According to the AWS Shared Responsibility Model, which of the following are responsibilities of AWS
+(Select TWO.)

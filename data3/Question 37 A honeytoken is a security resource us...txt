@@ -1,0 +1,2 @@
+Question 37 A honeytoken is a security resource used to detect unauthorized access.
+True

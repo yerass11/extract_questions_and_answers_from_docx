@@ -1,0 +1,2 @@
+Question 64 The function of Azure Cloud Shell is
+A. It enables you to run either PowerShell or the Azure CLI from a web browser.

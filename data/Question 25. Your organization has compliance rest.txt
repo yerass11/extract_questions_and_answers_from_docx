@@ -1,0 +1,2 @@
+Question: Question 25. Your organization has compliance restrictions that prevent your data from traversing the Internet between your on-premises data center and your resources in Azure. Which of the following provides a solution for this requirement
+Answer: Azure ExpressRoute

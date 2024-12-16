@@ -1,0 +1,2 @@
+Question 18. What methods can be used to grant anonymous access to an object in S3
+A. Bucket policies, B. Access control lists

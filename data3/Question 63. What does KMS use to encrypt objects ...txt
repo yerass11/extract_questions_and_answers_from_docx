@@ -1,0 +1,2 @@
+Question 63. What does KMS use to encrypt objects stored on your AWS account
+D. Customer master key

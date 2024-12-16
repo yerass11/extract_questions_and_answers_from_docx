@@ -1,0 +1,2 @@
+Question 103. Which of the following is true of a new security group
+C. It contains an outbound rule allowing access to any IP address.

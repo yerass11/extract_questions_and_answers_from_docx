@@ -1,0 +1,2 @@
+Question: Question 22. Which of the following does not provide load balancing between resources in Azure
+Answer: Azure Traffic Manager

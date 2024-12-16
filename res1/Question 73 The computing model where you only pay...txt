@@ -1,0 +1,2 @@
+Question 73 The computing model where you only pay for the services you use is
+A. Serverless computing

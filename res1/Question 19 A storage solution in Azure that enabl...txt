@@ -1,0 +1,2 @@
+Question 19 A storage solution in Azure that enables you to store the state of an application across executions
+C. Azure Files

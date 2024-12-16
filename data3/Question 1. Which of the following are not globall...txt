@@ -1,0 +1,2 @@
+Question 1. Which of the following are not globally based AWS services (Select TWO.)
+B. Route 53, D. CloudFront

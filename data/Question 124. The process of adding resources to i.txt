@@ -1,0 +1,2 @@
+Question: Question 124. The process of adding resources to increase the power of an existing server is known as Vertical Scaling.
+Answer: A. TRUE

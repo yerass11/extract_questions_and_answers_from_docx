@@ -1,0 +1,2 @@
+Question 5. Which of the following are requirements you can include in an IAM password policy
+(Select THREE.)

@@ -1,0 +1,2 @@
+Question: Question 91. Which of the following primary types of data in Azure Storage organizes data by tags or keys and provides a hierarchy for the data
+Answer: B. Semi-structured data

@@ -1,0 +1,2 @@
+Question 87. Which type of database stores data in columns and rows
+B. Relational.

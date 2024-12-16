@@ -1,0 +1,2 @@
+Question 33. Which of the following are true about registering a domain name with Route 53
+B. You can register a domain name for a term of up to 10 years, D. Route 53 creates a public hosted zone for the domain

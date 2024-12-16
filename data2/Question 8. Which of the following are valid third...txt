@@ -1,0 +1,2 @@
+Question 8. Which of the following are valid third-party federated identity standards
+C. SAML 2.0, D. Active Directory

@@ -1,0 +1,2 @@
+Question: Question 98. To what level of physical granularity can you deploy an app
+Answer: C. Region

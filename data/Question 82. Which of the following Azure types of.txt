@@ -1,0 +1,2 @@
+Question: Question 82. Which of the following Azure types of encryption for storage services automatically encrypts the data when it is persisted to the cloud and helps you to meet your organizational security and compliance commitments
+Answer: A. Azure Storage Service Encryption

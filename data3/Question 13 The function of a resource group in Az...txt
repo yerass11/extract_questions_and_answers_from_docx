@@ -1,0 +1,2 @@
+Question 13 The function of a resource group in Azure
+D. It serves as a logical container for Azure resources

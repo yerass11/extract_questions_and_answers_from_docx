@@ -1,0 +1,2 @@
+Question: Question 69. Which of the following cloud services requires the least amount of user management, as a service provider is responsible for managing everything, and the end-user just uses the software
+Answer: C. Software as a service (SaaS)

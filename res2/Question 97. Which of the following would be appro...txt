@@ -1,0 +1,2 @@
+Question 97. Which of the following would be appropriate to use for a primary key in a DynamoDB table that stores a customer list
+D. A randomly generated customer ID number.

@@ -1,0 +1,2 @@
+Question: Question 37. Is the underlined portion of the following statement true, or does it need to be replaced with one of the other fragments that appear below A honeytoken attack tests multiple passwords against a username.
+Answer: False. The correct fragment should state: "A honeytoken is a security resource used to detect unauthorized access."

@@ -1,0 +1,2 @@
+Question 107. Which of the following types of Route 53 health checks works by making a test connection to a TCP port
+C. Endpoint.

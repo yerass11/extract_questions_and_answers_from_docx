@@ -1,0 +1,2 @@
+Question: Question 100. Microsoft Azure is made up of datacenters located around the globe and organizes these datacenters into __________________.
+Answer: D. Regions

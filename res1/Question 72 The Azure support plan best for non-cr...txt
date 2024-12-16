@@ -1,0 +1,2 @@
+Question 72 The Azure support plan best for non-critical workloads is
+C. Azure Developer

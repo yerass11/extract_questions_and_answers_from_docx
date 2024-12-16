@@ -1,0 +1,2 @@
+Question: Question 39. Is the underlined portion of the following statement true, or does it need to be replaced with one of the other fragments that appear below Azure Policies enable you to specify what actions a user can take with a resource in Azure after they have authenticated in Azure.
+Answer: True

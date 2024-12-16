@@ -1,0 +1,2 @@
+Question 25 To prevent data from traversing the Internet between on-premises and Azure, use
+Azure ExpressRoute

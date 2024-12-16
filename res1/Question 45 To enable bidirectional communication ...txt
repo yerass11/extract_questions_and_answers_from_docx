@@ -1,0 +1,2 @@
+Question 45 To enable bidirectional communication between IoT devices and Azure services, use
+A. IoT Hub

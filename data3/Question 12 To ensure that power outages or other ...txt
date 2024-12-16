@@ -1,0 +1,2 @@
+Question 12 To ensure that power outages or other data center issues do not make a web application unavailable, place VMs in
+C. Different availability zones

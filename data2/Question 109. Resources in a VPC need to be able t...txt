@@ -1,0 +1,2 @@
+Question 109. Resources in a VPC need to be able to resolve internal IP addresses for other resources in the VPC. No one outside of the VPC should be able to resolve these addresses. Which of the following Route 53 resources can help you achieve this
+A private hosted zone.

@@ -1,0 +1,2 @@
+Question 32 A capability that requires Azure AD Premium
+Conditional Access

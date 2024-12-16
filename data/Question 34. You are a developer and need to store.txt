@@ -1,0 +1,2 @@
+Question: Question 34. You are a developer and need to store security credentials for a web application in a secure store in Azure. Which of the following meets this need
+Answer: Azure Key Vault

@@ -1,0 +1,2 @@
+Question: Question 30. Which of the following is an example of authorization
+Answer: Granting a user access to a specific Azure Resource Group

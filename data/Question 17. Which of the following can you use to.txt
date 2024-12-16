@@ -1,0 +1,2 @@
+Question: Question 17. Which of the following can you use to orchestrate container management in Azure
+Answer: C. Azure Kubernetes

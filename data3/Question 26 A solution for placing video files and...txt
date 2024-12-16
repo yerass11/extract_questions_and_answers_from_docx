@@ -1,0 +1,2 @@
+Question 26 A solution for placing video files and large documents close to users globally to reduce latency
+Azure Content Delivery Network (CDN)

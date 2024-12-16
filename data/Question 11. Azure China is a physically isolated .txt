@@ -1,0 +1,2 @@
+Question: Question 11. Azure China is a physically isolated instance of Azure available only to Chinese government entities.
+Answer: B. No

@@ -1,0 +1,2 @@
+Question: Question 23. You have deployed a web application in Azure and need HTTPS traffic to be routed to a specific endpoint based on the requested URL. Which of the following load-balancing solutions provides this capability
+Answer: Azure Application Gateway

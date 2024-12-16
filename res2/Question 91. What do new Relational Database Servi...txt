@@ -1,0 +1,2 @@
+Question 91. What do new Relational Database Service (RDS) instances use for database storage
+B. Elastic Block Store (EBS) volumes.

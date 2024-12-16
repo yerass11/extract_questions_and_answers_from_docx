@@ -1,0 +1,2 @@
+Question: Question 72. Which Azure support plan is best for non-critical workloads
+Answer: C. Azure Developer

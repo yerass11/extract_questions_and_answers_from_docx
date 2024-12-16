@@ -1,0 +1,2 @@
+Question: Question 108. You are looking for ways to understand how your application is performing and to identify possible issues affecting the performance. Which of the following Azure services will you enable
+Answer: C. Azure Monitor

@@ -1,0 +1,2 @@
+Question: Question 130. Azure divides the world into geographies that are defined by geopolitical boundaries or country borders. An Azure geography is a discrete market typically containing two or more regions that preserve data residency and compliance boundaries. This division has several benefits. One of the benefits is that geographies are fault-tolerant to withstand complete region failure.
+Answer: A. TRUE

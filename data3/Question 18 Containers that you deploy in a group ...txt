@@ -1,0 +1,2 @@
+Question 18 Containers that you deploy in a group share the same OS as other containers in the group.
+B. True

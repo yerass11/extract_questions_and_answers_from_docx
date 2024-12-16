@@ -1,0 +1,2 @@
+Question 50 Is the underlined portion of the following statement true, or does it need to be replaced with one of the other fragments that appear below Azure Functions is a solution for creating serverless, stateless functions that can be called from other Azure services to perform data processing.
+D. No change is needed

@@ -1,0 +1,2 @@
+Question 48. According to the AWS Shared Responsibility Model, what’s the best way to define the status of the software driving an AWS managed service
+C. Whatever the customer can control (application code and/or configuration settings) is the customer’s responsibility.

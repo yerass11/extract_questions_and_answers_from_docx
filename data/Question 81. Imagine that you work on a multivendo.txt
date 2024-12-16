@@ -1,0 +1,2 @@
+Question: Question 81. Imagine that you work on a multivendor marketplace application that runs on millions of mobile devices. Demand is unpredictable because you see a spike in usage whenever vendors send promotional newsletters. Which Azure compute resource is the best match for this workload
+Answer: D. Serverless computing

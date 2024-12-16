@@ -1,0 +1,2 @@
+Question 96. Which DynamoDB operation is the most read-intensive
+C. Scan.

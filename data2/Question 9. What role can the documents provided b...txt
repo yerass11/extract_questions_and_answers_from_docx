@@ -1,0 +1,2 @@
+Question 9. What role can the documents provided by AWS Artifact play in your application planning
+A. They can help you confirm that your deployment infrastructure is compliant with regulatory standards, B. They can provide insight into various regulatory and industry standards that represent best practices.

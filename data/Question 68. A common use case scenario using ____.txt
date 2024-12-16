@@ -1,0 +1,2 @@
+Question: Question 68. A common use case scenario using __________________ cloud deployment method is that web applications or blog sites are deployed on hardware and resources that are owned by a cloud provider.
+Answer: A. Public

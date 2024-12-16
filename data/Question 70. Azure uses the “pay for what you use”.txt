@@ -1,0 +1,2 @@
+Question: Question 70. Azure uses the “pay for what you use” billing model and is invoiced ______________ with payment instructions.
+Answer: B. Monthly

@@ -1,0 +1,2 @@
+Question 16. What are the major differences between Simple Storage Service (S3) and Elastic Block Store (EBS)
+A. EBS stores volumes, D. S3 stores objects

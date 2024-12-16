@@ -1,0 +1,2 @@
+Question 47. What is the main purpose of Amazon Route 53
+B. Managing domain name registration and traffic routing

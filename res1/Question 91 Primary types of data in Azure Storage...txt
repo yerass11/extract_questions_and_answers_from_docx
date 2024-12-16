@@ -1,0 +1,2 @@
+Question 91 Primary types of data in Azure Storage organizes data by tags or keys and provides a hierarchy for the data
+B. Semi-structured data

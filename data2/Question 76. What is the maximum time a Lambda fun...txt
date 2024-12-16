@@ -1,0 +1,2 @@
+Question 76. What is the maximum time a Lambda function may run before timing out
+A. 15 minutes.

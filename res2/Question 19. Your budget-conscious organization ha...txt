@@ -1,0 +1,2 @@
+Question 19. Your budget-conscious organization has a 5 TB database file it needs to retain off-site for at least 5 years. In the event the organization needs to access the database, it must be accessible within 8 hours. Which cloud storage option should you recommend, and why
+C. S3 Glacier, D. Glacier is the most cost effective

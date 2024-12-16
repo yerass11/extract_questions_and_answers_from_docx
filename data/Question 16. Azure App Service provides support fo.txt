@@ -1,0 +1,2 @@
+Question: Question 16. Azure App Service provides support for multiple development languages, containers, and Windows and Linux.
+Answer: A. Yes

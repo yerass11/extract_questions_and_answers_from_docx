@@ -1,0 +1,2 @@
+Question: Question 58. Is the underlined portion of the following statement true, or does it need to be replaced with one of the fragments below Your organization currently has two Azure subscriptions. Adding a third Azure subscription will increase your Azure consumption and costs.
+Answer: C. Not cause any cost increase by itself.

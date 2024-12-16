@@ -1,0 +1,2 @@
+Question 60. What will IAM users with AWS Management Console access need to successfully log in
+B. Their username and password

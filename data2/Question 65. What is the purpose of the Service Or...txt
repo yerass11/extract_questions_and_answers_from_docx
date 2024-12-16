@@ -1,0 +1,2 @@
+Question 65. What is the purpose of the Service Organization Controls (SOC) reports found on AWS Artifact
+B. They attest to AWS infrastructure compliance with data accountability standards like Sarbanes–Oxley.

@@ -1,0 +1,2 @@
+Question: Question 28. You are deploying a VM-based solution, and due to security and compliance requirements, all traffic reaching that VM must come from a single endpoint located in a different subnet. Which of the following solutions meets this requirement
+Answer: Azure Load Balancer with a Frontend IP Configuration

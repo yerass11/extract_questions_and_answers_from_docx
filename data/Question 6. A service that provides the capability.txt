@@ -1,0 +1,2 @@
+Question: Question 6. A service that provides the capability to deploy a SQL database without the need for you to set up a VM or install SQL Server is an example of
+Answer: C. Platform-as-a-service (PaaS)

@@ -1,0 +1,2 @@
+Question: Question 53. Is the underlined portion of the following statement true, or does it need to be replaced with one of the fragments below You can purchase Azure services only through an enterprise agreement (EA).
+Answer: B. Directly from Microsoft through the Azure portal.

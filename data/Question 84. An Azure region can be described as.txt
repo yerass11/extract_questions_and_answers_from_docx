@@ -1,2 +1,2 @@
-Question 84. An Azure region can be described as
-A. A set of datacenters within a specific geographical location
+Question: Question 84. An Azure region can be described as
+Answer: A. A set of datacenters within a specific geographical location

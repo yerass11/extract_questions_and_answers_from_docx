@@ -1,0 +1,2 @@
+Question 23 To route HTTPS traffic to a specific endpoint based on the requested URL, use
+Azure Application Gateway

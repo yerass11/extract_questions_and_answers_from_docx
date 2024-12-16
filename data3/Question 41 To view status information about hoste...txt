@@ -1,0 +1,2 @@
+Question 41 To view status information about hosted resources in Azure
+B. Azure Service Health

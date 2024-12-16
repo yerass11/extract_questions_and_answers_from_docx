@@ -1,0 +1,2 @@
+Question 62. Which of the following AWS resources cannot be encrypted using KMS
+A. Existing AWS Elastic Block Store volumes

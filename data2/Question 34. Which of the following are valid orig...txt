@@ -1,0 +1,2 @@
+Question 34. Which of the following are valid origins for a CloudFront distribution
+A. EC2 instance, B. A public S3 bucket

@@ -1,0 +1,2 @@
+Question 22. Which of the following are security features of AWS Snowball
+A. It enforces encryption at rest, B. It uses a Trusted Platform Module (TPM) chip

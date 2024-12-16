@@ -1,0 +1,2 @@
+Question 59. What will you need to provide for a new IAM user you’re creating who will use “programmatic access” to AWS resources
+D. An access key ID and secret access key

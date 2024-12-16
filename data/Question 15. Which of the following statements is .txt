@@ -1,0 +1,2 @@
+Question: Question 15. Which of the following statements is not true regarding Azure subscriptions
+Answer: A. A subscription is aligned to a specific Azure region.

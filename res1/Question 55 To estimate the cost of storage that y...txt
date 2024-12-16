@@ -1,0 +1,2 @@
+Question 55 To estimate the cost of storage that you will include with three new VMs that you need to deploy to Azure, you should use
+A. Pricing Calculator

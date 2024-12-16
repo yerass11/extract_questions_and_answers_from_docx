@@ -1,0 +1,2 @@
+Question 90. What is a no-SQL database
+C. A schemaless nonrelational database.

@@ -1,0 +1,2 @@
+Question 81. Where does AWS Storage Gateway primarily store data
+B. S3 buckets.

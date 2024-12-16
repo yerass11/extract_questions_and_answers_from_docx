@@ -1,0 +1,2 @@
+Question 22 Services that do not provide load balancing between resources in Azure
+Azure Traffic Manager

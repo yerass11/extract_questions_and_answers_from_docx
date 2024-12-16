@@ -1,0 +1,2 @@
+Question 29 Azure DDoS Protection Standard alerts you to DDoS attacks targeting Azure resources.
+True

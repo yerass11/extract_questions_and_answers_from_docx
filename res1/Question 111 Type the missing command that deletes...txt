@@ -1,0 +1,4 @@
+Question 111 Type the missing command that deletes the policy requirements through PowerShell.
+PS C $MyResourceGroup = Get-AzResourceGroup -Name ‘MyResourceGroup101’
+PS C Remove-AzPolicyAssignment -Name ‘MyPolicyAssignment201’ -Scope $MyResourceGroup.ResourceId -Force
+B. Remove-AzPolicyAssignment

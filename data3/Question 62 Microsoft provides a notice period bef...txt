@@ -1,0 +1,2 @@
+Question 62 Microsoft provides a notice period before retiring an Azure service of
+B. 12 months

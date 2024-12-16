@@ -1,0 +1,2 @@
+Question 61 A solution in Azure comprising two VMs, each with a 99.5% SLA, has a composite SLA of
+A. 99.0%

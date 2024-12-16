@@ -1,0 +1,2 @@
+Question 89. Which of the following statements is true regarding nonrelational databases
+D. You don’t have to define all the types of data that a table can store before adding data to it.

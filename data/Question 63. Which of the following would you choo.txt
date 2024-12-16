@@ -1,0 +1,2 @@
+Question: Question 63. Which of the following would you choose to perform management tasks in Azure as an experienced Linux administrator
+Answer: B. Azure CLI

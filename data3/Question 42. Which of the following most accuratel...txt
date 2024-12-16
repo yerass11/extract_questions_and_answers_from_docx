@@ -1,0 +1,2 @@
+Question 42. Which of the following most accurately describes a subnet within the AWS ecosystem
+C. The block of IP addresses assigned for use within a single Availability Zone

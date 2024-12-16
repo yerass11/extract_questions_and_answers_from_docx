@@ -1,0 +1,2 @@
+Question 17. Which tasks can S3 object lifecycle configurations perform automatically
+A. Deleting old object versions, B. Moving objects to Glacier, D. Deleting old objects

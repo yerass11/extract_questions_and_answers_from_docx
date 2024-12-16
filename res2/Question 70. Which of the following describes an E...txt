@@ -1,0 +1,2 @@
+Question 70. Which of the following describes an EBS volume
+C. A virtualized partition of a physical storage drive that’s not directly connected to the EC2 instance it’s associated with.

@@ -1,0 +1,2 @@
+Question 43. What determines the order by which subnetsAZ options are displayed in EC2 configuration dialogs
+B. They appear to be displayed in random order.

@@ -1,0 +1,2 @@
+Question 57 The service that provides significant discounts for purchasing Azure services is
+B. Azure Reservations

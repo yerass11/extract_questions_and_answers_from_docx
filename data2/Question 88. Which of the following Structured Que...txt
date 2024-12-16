@@ -1,0 +1,2 @@
+Question 88. Which of the following Structured Query Language (SQL) statements can you use to write data to a relational database table
+B. INSERT.

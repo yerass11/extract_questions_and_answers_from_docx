@@ -1,0 +1,2 @@
+Question: Question 80. _________________ storage tier optimized for storing data that is accessed frequently.
+Answer: A. Hot

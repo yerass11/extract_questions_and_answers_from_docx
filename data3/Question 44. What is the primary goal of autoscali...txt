@@ -1,0 +1,2 @@
+Question 44. What is the primary goal of autoscaling
+D. To ensure that a predefined service level is maintained regardless of external demand or instance failures

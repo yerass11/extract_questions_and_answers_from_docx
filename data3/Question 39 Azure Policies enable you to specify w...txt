@@ -1,0 +1,2 @@
+Question 39 Azure Policies enable you to specify what actions a user can take with a resource in Azure after authentication.
+True

@@ -1,0 +1,2 @@
+Question 17 Tools for orchestrating container management in Azure
+C. Azure Kubernetes

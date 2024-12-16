@@ -1,0 +1,2 @@
+Question: Question 40. Which of the following would you use to prevent resources in a resource group from being deleted
+Answer: Resource locks

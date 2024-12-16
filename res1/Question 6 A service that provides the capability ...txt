@@ -1,0 +1,2 @@
+Question 6 A service that provides the capability to deploy a SQL database without setting up a VM or installing SQL Server is an example of
+C. Platform-as-a-service (PaaS)

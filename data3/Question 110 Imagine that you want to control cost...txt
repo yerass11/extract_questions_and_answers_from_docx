@@ -1,0 +1,2 @@
+Question 110 Imagine that you want to control costs, so you ask the administrator of your Azure tenant to define a policy that prohibits the creation of any VM with more than 2GB RAM. Which Azure service will you enable in order to achieve this
+A. Azure Policy

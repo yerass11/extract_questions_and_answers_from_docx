@@ -1,0 +1,2 @@
+Question 30. Which of the following are true regarding subnets
+B. A subnet must have a CIDR that’s a subset of the CIDR of the VPC in which it resides, C. A subnet spans one Availability Zone

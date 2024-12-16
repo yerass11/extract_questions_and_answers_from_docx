@@ -1,0 +1,2 @@
+Question 54 You have been tasked by the director of infrastructure at your organization to estimate the cost of moving a data center from on-premises to Azure. The tool you should use to estimate the cost is
+C. TCO Calculator

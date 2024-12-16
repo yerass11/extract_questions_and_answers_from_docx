@@ -1,0 +1,2 @@
+Question: Question 29. Replace the underlined section of the statement if needed to make the statement true Azure DDoS Protection Standard alerts you to DNS attacks as they are happening.
+Answer: DDoS attacks targeting Azure resources.

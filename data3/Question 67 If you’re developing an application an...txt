@@ -1,0 +1,2 @@
+Question 67 If you’re developing an application and want to focus on building, testing, and deploying without managing the server and infrastructure, the best cloud service type is
+B. Platform as a service (PaaS)

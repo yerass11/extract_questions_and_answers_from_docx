@@ -1,0 +1,2 @@
+Question 49 To create serverless workflow solutions in Azure
+A. Logic Apps

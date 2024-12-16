@@ -1,0 +1,2 @@
+Question 14. Which of the following use container technologies
+A. Docker, B. Kubernetes

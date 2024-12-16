@@ -1,0 +1,2 @@
+Question 64. Which of the following standards governs AWS-based applications processing credit card transactions
+C. PCI DSS

@@ -1,0 +1,2 @@
+Question 99. Which Redshift feature can analyze structured data stored in S3
+A. Redshift Spectrum.

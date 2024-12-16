@@ -1,0 +1,2 @@
+Question: Question 52. Your CIO has asked you to investigate Azure as an alternative to hosting resources in your on-premises data center. What is the first action you need to take before creating resources in Azure
+Answer: C. Create an Azure subscription.

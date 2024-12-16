@@ -1,0 +1,2 @@
+Question 71. Your web application experiences periodic spikes in demand that require the provisioning of extra instances. Which of the following pricing models would make the most sense for those extra instances
+B. On-demand.

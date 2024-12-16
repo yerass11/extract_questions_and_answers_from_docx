@@ -1,0 +1,2 @@
+Question 40 To prevent resources in a resource group from being deleted, use
+Resource locks

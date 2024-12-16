@@ -1,0 +1,2 @@
+Question 75. What role can the Python programming language play in AWS Lambda
+D. It can be set as the runtime environment for a function.

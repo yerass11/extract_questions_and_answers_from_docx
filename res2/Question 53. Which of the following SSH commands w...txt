@@ -1,0 +1,2 @@
+Question 53. Which of the following SSH commands will successfully connect to an EC2 Amazon Linux instance with an IP address of 54.7.35.103 using a key named mykey.pem
+B. ssh -i mykey.pem ec2-user@54.7.35.103

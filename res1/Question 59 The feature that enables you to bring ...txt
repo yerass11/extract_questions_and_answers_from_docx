@@ -1,0 +1,2 @@
+Question 59 The feature that enables you to bring your existing licenses for SQL Server into Azure to save licensing costs is
+A. Azure Hybrid Benefit

@@ -1,0 +1,2 @@
+Question 73. Which of the following best describes what happens when you purchase an EC2 reserved instance
+A. Charges for any instances you run matching the reserved instance type will be covered by the reservation.

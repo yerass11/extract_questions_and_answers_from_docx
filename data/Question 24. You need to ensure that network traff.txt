@@ -1,0 +1,2 @@
+Question: Question 24. You need to ensure that network traffic between your on-premises data center and Azure is securely encrypted as it traverses the Internet, but you do not want your organization to manage the service. Which of the following should you choose
+Answer: Azure VPN Gateway

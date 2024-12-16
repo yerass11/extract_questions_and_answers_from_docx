@@ -1,0 +1,2 @@
+Question 108. You have two EC2 instances hosting a web application. You want to distribute 20 percent of traffic to one instance and 80 percent to the other. Which of the following Route 53 routing policies should you use
+Weighted.

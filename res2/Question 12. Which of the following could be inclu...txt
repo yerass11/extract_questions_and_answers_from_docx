@@ -1,0 +1,2 @@
+Question 12. Which of the following could be included in an EC2 AMI
+B. A software application stack, C. An operating system

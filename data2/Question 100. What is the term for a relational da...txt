@@ -1,0 +1,2 @@
+Question 100. What is the term for a relational database that stores large amounts of structured data from a variety of sources for reporting and analysis
+Data warehouse.

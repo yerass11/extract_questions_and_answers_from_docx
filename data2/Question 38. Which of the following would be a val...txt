@@ -1,0 +1,2 @@
+Question 38. Which of the following would be a valid endpoint your developers could use to access a particular Relational Database Service instance you’re running in the Northern Virginia region
+C. rds.us-east-1.amazonaws.com

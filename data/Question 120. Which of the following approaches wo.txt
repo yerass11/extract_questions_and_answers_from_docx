@@ -1,0 +1,2 @@
+Question: Question 120. Which of the following approaches would be the most efficient way to ensure a naming convention was followed across your subscription
+Answer: B. Create a policy with your naming requirements and assign it to the scope of your subscription

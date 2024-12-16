@@ -1,0 +1,2 @@
+Question 82. What’s the most data you can store on a single Snowball device
+C. 72 TB.

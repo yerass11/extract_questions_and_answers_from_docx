@@ -1,0 +1,2 @@
+Question 56. What information does the IAM credential report provide
+D. The current state of security of your IAM users’ access credentials

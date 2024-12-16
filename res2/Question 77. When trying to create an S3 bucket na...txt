@@ -1,0 +1,2 @@
+Question 77. When trying to create an S3 bucket named documents, AWS informs you that the bucket name is already in use. What should you do in order to create a bucket
+B. Use a globally unique bucket name.

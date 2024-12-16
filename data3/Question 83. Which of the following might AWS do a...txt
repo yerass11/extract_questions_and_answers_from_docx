@@ -1,0 +1,2 @@
+Question 83. Which of the following might AWS do after receiving a damaged Snowball device from a customer
+C. Securely erase the customer’s data from the device.

@@ -1,0 +1,2 @@
+Question 84. Which of the following can you use to transfer data to AWS Snowball from a Windows machine without writing any code
+B. The Snowball Client.

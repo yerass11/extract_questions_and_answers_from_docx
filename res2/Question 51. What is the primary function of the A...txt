@@ -1,0 +1,2 @@
+Question 51. What is the primary function of the AWS IAM service
+A. Identity and access management

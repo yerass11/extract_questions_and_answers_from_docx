@@ -1,0 +1,2 @@
+Question 66 A good option for deploying a single VM in Azure is
+A. Azure portal

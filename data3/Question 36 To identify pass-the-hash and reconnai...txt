@@ -1,0 +1,2 @@
+Question 36 To identify pass-the-hash and reconnaissance attacks, use
+Microsoft Defender for Identity

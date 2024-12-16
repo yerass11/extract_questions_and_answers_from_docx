@@ -1,0 +1,2 @@
+Question 110. You want to provide private name resolution for two VPCs using the domain name company.pri. How many private hosted zones do you need to create
+A. 1.

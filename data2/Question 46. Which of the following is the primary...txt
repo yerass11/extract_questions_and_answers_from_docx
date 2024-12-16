@@ -1,0 +1,2 @@
+Question 46. Which of the following is the primary benefit of using CloudFront distributions
+D. Reduced latency access to your content no matter where your end users live

@@ -1,0 +1,2 @@
+Question 32. What are two differences between a virtual private network (VPN) connection and a Direct Connect connection
+A. A Direct Connect connection offers predictable latency because it doesn’t traverse the internet, B. A VPN connection uses the internet for transport

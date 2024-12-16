@@ -1,0 +1,2 @@
+Question 27 To enable only you and a peer to access and manage an Azure VM using RDP on port 3389, use
+Network Security Group (NSG)

@@ -1,0 +1,2 @@
+Question 31 Another example of authorization
+Granting permission to access a specific resource

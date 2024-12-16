@@ -1,0 +1,2 @@
+Question 85. Which of the following Snowball Edge device options is the best for running machine learning applications
+B. Compute Optimized with GPU.

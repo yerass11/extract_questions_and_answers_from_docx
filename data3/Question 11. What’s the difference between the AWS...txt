@@ -1,0 +1,2 @@
+Question 11. What’s the difference between the AWS Command Line Interface (CLI) and the AWS software development kits (SDK)
+A. The AWS SDKs allow you to use popular programming languages to write applications that interact with AWS services, B. The AWS CLI allows you to interact with AWS services from a terminal.

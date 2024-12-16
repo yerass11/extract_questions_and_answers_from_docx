@@ -1,0 +1,2 @@
+Question 92. Which RDS database engine offers automatically expanding database storage up to 64 TB
+B. Amazon Aurora.

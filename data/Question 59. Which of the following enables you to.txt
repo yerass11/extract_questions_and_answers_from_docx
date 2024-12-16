@@ -1,0 +1,2 @@
+Question: Question 59. Which of the following enables you to bring your existing licenses for SQL Server into Azure to save licensing costs
+Answer: A. Azure Hybrid Benefit

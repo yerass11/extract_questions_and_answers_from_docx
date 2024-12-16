@@ -1,0 +1,2 @@
+Question 112 The Azure service that collects, analyzes, and provides actions on telemetry from your cloud and on-premises environments and provides up-to-date status information about the health of Azure services is called Azure
+B. Monitor

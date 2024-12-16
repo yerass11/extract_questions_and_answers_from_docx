@@ -1,0 +1,2 @@
+Question: Question 93. Recently you noticed a huge spike in user volume due to an ad campaign. Your app uses Azure data storage. What feature of pay-as-you-go storage will be most beneficial in order to meet the unexpected new user demand
+Answer: C. The ability to provision and deploy new infrastructure quickly

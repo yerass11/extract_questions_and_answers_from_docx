@@ -1,0 +1,2 @@
+Question 61. Which of the following will encrypt your data while in transit between your office and Amazon S3
+C. A client-side master key

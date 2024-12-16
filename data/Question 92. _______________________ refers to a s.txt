@@ -1,0 +1,2 @@
+Question: Question 92. _______________________ refers to a system’s ability to stay operational during abnormal conditions.
+Answer: D. Resiliency

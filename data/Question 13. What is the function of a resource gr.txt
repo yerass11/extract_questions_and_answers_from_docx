@@ -1,0 +1,2 @@
+Question: Question 13. What is the function of a resource group in Azure
+Answer: D. It serves as a logical container for Azure resources

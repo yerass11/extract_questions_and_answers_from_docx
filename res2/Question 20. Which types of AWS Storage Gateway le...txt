@@ -1,0 +1,2 @@
+Question 20. Which types of AWS Storage Gateway let you connect your servers to block storage using the iSCSI protocol
+B. Tape gateway, D. Volume gateway

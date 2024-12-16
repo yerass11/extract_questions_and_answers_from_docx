@@ -1,0 +1,2 @@
+Question 10 An Azure region
+B. Is usually paired with another region to ensure high availability

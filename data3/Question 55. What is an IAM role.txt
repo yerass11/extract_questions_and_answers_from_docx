@@ -1,0 +1,2 @@
+Question 55. What is an IAM role
+C. Permissions granted a trusted entity over specified AWS resources

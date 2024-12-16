@@ -1,0 +1,2 @@
+Question: Question 66. Which of the following is a good option for deploying a single VM in Azure
+Answer: A. Azure portal

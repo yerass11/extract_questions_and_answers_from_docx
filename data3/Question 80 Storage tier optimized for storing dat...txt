@@ -1,0 +1,2 @@
+Question 80 Storage tier optimized for storing data that is accessed frequently.
+A. Hot

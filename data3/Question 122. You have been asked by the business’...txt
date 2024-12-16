@@ -1,0 +1,2 @@
+Question 122. You have been asked by the business’s Manager to apply a solution that prevents any sort of modification or deletion of critical Azure resources. Which of the following features will you apply in order to make it happen
+D. Resource Locks

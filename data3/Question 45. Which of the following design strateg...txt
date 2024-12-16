@@ -1,0 +1,2 @@
+Question 45. Which of the following design strategies is most effective for maintaining the reliability of a cloud application
+C. Resource redundancy

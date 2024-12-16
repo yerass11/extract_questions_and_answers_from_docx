@@ -1,0 +1,2 @@
+Question 7 Accessing an application through a web page rather than installing it on your local device is an example of
+B. Software-as-a-service (SaaS)

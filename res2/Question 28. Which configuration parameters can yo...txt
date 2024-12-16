@@ -1,0 +1,2 @@
+Question 28. Which configuration parameters can you adjust to improve write performance against a DynamoDB table
+C. Increase write capacity units (WCU), E. Enable DynamoDB Auto Scaling

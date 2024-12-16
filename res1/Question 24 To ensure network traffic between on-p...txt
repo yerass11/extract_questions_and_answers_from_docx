@@ -1,0 +1,2 @@
+Question 24 To ensure network traffic between on-premises and Azure is securely encrypted without managing the service, use
+Azure VPN Gateway

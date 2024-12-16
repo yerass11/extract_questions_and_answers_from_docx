@@ -1,0 +1,2 @@
+Question 40. You want to improve the resilience of your EC2 web server. Which of the following is the most effective and efficient approach
+B. Launch parallel, load-balanced instances in multiple Availability Zones within a single AWS Region

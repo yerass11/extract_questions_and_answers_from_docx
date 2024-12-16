@@ -1,0 +1,2 @@
+Question 37. When you request a new virtual machine instance in EC2, your instance will automatically launch into the currently selected value of which of the following
+D. Region

@@ -1,0 +1,2 @@
+Question 96 Characteristics of SLAs for Azure products is expressed as uptime guarantees or connectivity rates
+A. Performance Targets

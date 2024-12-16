@@ -1,0 +1,2 @@
+Question 36. Which of the following is an AWS Region for which customer access is restricted
+D. AWS GovCloud

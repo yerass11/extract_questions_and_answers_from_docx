@@ -1,0 +1,2 @@
+Question: Question 47. Your organization needs to implement a solution that analyzes photos and videos. Which of the following should you consider as a solution
+Answer: C. Cognitive Services

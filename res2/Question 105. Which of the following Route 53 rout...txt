@@ -1,0 +1,2 @@
+Question 105. Which of the following Route 53 routing policies can return a set of randomly ordered values
+Multivalue Answer.

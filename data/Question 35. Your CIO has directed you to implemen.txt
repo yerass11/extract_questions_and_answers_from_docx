@@ -1,0 +1,2 @@
+Question: Question 35. Your CIO has directed you to implement a solution that enables your organization to protect emails and documents using policies, identities, and encryption. Which of the following satisfies this requirement
+Answer: Azure Information Protection

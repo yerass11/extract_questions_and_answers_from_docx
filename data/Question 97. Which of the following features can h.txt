@@ -1,0 +1,2 @@
+Question: Question 97. Which of the following features can help your business achieve comprehensive business continuity on Azure and reduce the likelihood of interruptions due to events such as natural disasters or power outages
+Answer: C. Region pairs

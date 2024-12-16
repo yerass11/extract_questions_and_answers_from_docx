@@ -1,0 +1,2 @@
+Question 121. In order to associate a cost center with resources for an internal chargeback or to store production, department association, and organize them into taxonomies, you will use a feature called
+B. Tags

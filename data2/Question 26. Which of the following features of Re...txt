@@ -1,0 +1,2 @@
+Question 26. Which of the following features of Relational Database Service (RDS) can prevent data loss in the event of an Availability Zone failure
+B. Multi-AZ, C. Snapshots

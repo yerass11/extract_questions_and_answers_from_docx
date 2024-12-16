@@ -1,0 +1,2 @@
+Question 3. Which of the following AWS services are not likely to benefit from Amazon edge locations
+A. RDS, C. Elastic Block Store (EBS)

@@ -1,0 +1,2 @@
+Question 6. Which of the following should you do to secure your AWS root user
+C. Enable MFA, D. Create a strong password

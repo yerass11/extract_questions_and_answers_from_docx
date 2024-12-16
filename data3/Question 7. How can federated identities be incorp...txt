@@ -1,0 +1,2 @@
+Question 7. How can federated identities be incorporated into AWS workflows
+A. You can provide users authenticated through a third-party identity provider access to backend resources used by your mobile app, D. You can provide admins authenticated through AWS Microsoft AD with access to a Microsoft SharePoint farm running on AWS

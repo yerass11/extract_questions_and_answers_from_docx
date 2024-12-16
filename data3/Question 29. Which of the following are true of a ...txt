@@ -1,0 +1,2 @@
+Question 29. Which of the following are true of a default VPC
+B. AWS creates a default VPC in each region, D. By default, each default VPC is available to one AWS account

@@ -1,0 +1,2 @@
+Question: Question 46. Which of the following would enable your organization to monitor and control thousands of sensors deployed in a manufacturing facility, including analyzing telemetry from the sensors
+Answer: B. IoT Central

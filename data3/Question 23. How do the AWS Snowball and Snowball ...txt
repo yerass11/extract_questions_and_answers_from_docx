@@ -1,0 +1,2 @@
+Question 23. How do the AWS Snowball and Snowball Edge devices differ
+A. Snowball Edge supports copying files using NFS, D. Snowball Edge can run EC2 instances

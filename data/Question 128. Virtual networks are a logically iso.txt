@@ -1,0 +1,2 @@
+Question: Question 128. Virtual networks are a logically isolated network on Azure that can be configured through software.
+Answer: A. TRUE

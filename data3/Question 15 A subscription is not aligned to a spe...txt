@@ -1,0 +1,2 @@
+Question 15 A subscription is not aligned to a specific Azure region.
+A. True

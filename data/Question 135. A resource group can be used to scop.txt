@@ -1,0 +1,2 @@
+Question: Question 135. A resource group can be used to scope access control for administrative actions.
+Answer: A. TRUE

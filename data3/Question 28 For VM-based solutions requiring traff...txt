@@ -1,0 +1,2 @@
+Question 28 For VM-based solutions requiring traffic from a single endpoint located in a different subnet
+Azure Load Balancer with a Frontend IP Configuration

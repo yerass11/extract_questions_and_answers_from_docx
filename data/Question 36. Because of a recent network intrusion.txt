@@ -1,0 +1,2 @@
+Question: Question 36. Because of a recent network intrusion, you need to present a solution to your CIO that will enable your organization to identify pass-the-hash and reconnaissance attacks. Which of the following is an appropriate solution
+Answer: Microsoft Defender for Identity (formerly Advanced Threat Analytics or ATA)

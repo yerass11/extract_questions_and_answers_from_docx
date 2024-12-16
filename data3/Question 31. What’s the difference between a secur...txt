@@ -1,0 +1,2 @@
+Question 31. What’s the difference between a security group and a network access control list (NACL)
+B. A security group operates at the instance level, D. A network access control list operates at the subnet level

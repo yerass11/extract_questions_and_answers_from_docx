@@ -1,0 +1,2 @@
+Question: Question 131. Single sign-on (SSO) provides additional security for your identities by requiring two or more elements for full authentication.
+Answer: B. FALSE

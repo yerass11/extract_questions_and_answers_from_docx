@@ -1,0 +1,2 @@
+Question 67. Where can you find a wide range of verified AMIs from both AWS and third-party vendors
+A. AWS Marketplace.

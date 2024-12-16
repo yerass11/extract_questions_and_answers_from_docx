@@ -1,0 +1,2 @@
+Question 63 As an experienced Linux administrator, you would use this tool to perform management tasks in Azure
+B. Azure CLI

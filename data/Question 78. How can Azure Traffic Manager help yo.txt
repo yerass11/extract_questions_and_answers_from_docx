@@ -1,0 +1,2 @@
+Question: Question 78. How can Azure Traffic Manager help you reduce latency
+Answer: B. It chooses the endpoint that's closest to the user's DNS server.

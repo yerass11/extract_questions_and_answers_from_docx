@@ -1,0 +1,2 @@
+Question 126. Azure Batch lets you create and manage a group of identical, load-balanced VMs.
+B. FALSE

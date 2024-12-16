@@ -1,0 +1,2 @@
+Question 27. What is true regarding a DynamoDB partition
+B. It’s backed by solid-state drives, D. It’s replicated across multiple Availability Zones

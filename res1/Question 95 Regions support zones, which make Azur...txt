@@ -1,0 +1,2 @@
+Question 95 Regions support zones, which make Azure datacenters available with power, cooling, and networking capabilities independent from other datacenters.
+B. Availability

@@ -1,0 +1,2 @@
+Question 15. Which S3 storage classes are most cost-effective for infrequently accessed data that can’t be easily replaced
+A. STANDARD_IA, C. GLACIER

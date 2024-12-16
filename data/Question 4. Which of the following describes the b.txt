@@ -1,0 +1,2 @@
+Question: Question 4. Which of the following describes the benefit economy of scale as it relates to Microsoft Azure
+Answer: D. The decrease in price per subscriber as more subscribers are added

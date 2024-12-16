@@ -1,0 +1,2 @@
+Question: Question 64. What function does the Azure Cloud Shell provide
+Answer: A. It enables you to run either PowerShell or the Azure CLI from a web browser.

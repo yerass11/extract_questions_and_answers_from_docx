@@ -1,0 +1,2 @@
+Question 74 To build and host web apps, mobile backends, or RESTful APIs without managing infrastructure, you would use
+C. Azure App Service

@@ -1,0 +1,2 @@
+Question 118 Policy definitions prevents a list of resource types from being deployed
+B. Not allowed resource types

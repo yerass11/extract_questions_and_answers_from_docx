@@ -1,0 +1,2 @@
+Question 48 To add natural language question and answer capabilities to a web application, use
+C. Azure Bot Services

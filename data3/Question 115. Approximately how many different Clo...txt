@@ -1,0 +1,2 @@
+Question 115. Approximately how many different CloudFront edge locations are there
+More than 150.

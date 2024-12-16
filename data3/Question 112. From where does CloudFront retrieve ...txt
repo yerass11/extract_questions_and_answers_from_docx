@@ -1,0 +1,2 @@
+Question 112. From where does CloudFront retrieve content to store for caching
+B. Origins.

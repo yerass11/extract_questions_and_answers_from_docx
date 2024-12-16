@@ -1,0 +1,2 @@
+Question 106. Which of the following Route 53 routing policies doesn’t use health checks
+Simple.

@@ -1,0 +1,2 @@
+Question 54. What’s the most efficient method for managing permissions for multiple IAM users
+B. Assign users requiring similar permissions to IAM groups.

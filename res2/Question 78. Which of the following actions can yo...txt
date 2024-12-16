@@ -1,0 +1,2 @@
+Question 78. Which of the following actions can you perform from the S3 Glacier service console
+B. Create a vault.

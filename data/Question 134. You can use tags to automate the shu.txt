@@ -1,0 +1,2 @@
+Question: Question 134. You can use tags to automate the shutdown and startup of virtual machines in development environments.
+Answer: A. TRUE

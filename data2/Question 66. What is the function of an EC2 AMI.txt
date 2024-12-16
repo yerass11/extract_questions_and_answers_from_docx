@@ -1,0 +1,2 @@
+Question 66. What is the function of an EC2 AMI
+C. To serve as a source image from which an instance’s primary storage volume is built.

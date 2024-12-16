@@ -1,0 +1,2 @@
+Question: Question 67. You’re developing an application and want to focus on building, testing, and deploying. You don’t want to manage the server and the infrastructure. Which cloud service type is best for you
+Answer: B. Platform as a service (PaaS)

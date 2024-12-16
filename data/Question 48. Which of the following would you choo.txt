@@ -1,0 +1,2 @@
+Question: Question 48. Which of the following would you choose to add natural language question and answer capabilities to a web application
+Answer: C. Azure Bot Services

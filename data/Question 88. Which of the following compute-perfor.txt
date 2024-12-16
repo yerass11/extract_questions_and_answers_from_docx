@@ -1,0 +1,2 @@
+Question: Question 88. Which of the following compute-performing techniques in Azure is a cloud-hosted execution environment that runs your code and completely abstracts the underlying hosting environment
+Answer: A. Serverless computing

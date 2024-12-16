@@ -1,0 +1,2 @@
+Question 35. Which of the following designations would refer to the AWS US West (Oregon) region
+B. us-west-2

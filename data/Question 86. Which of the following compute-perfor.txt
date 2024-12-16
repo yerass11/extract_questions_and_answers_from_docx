@@ -1,0 +1,2 @@
+Question: Question 86. Which of the following compute-performing techniques in Azure bundles an application’s code together with the related configuration files and libraries, along with the dependencies required for the app to run
+Answer: C. Containers

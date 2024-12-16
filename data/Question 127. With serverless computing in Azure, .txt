@@ -1,0 +1,2 @@
+Question: Question 127. With serverless computing in Azure, you are responsible for managing the server infrastructure.
+Answer: B. FALSE

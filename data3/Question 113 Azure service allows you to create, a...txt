@@ -1,0 +1,2 @@
+Question 113 Azure service allows you to create, assign, and manage policies to enforce different rules and effects over your resources and stay compliant with your corporate standards and service-level agreements (SLAs)
+C. Azure Policy

@@ -1,0 +1,2 @@
+Question 114. You need to deliver content to users in the United States and Canada. Which of the following edge location options will be the most cost-effective for your CloudFront distribution
+A. United States, Canada, and Europe.

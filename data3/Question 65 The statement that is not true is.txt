@@ -1,0 +1,2 @@
+Question 65 The statement that is not true is
+A. You can use the Azure Mobile App to run the Azure CLI.

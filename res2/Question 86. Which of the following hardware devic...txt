@@ -1,0 +1,2 @@
+Question 86. Which of the following hardware devices offers a network interface speed that supports up to 100 Gbps
+B. Snowball Edge with the Compute Optimized configuration.

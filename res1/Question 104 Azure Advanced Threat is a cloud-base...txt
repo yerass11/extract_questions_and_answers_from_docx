@@ -1,0 +1,2 @@
+Question 104 Azure Advanced Threat is a cloud-based security solution that identifies, detects, and helps you investigate advanced threats, compromised identities, and malicious insider actions directed at your organization.
+B. Protection

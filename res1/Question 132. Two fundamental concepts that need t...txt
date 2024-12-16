@@ -1,0 +1,2 @@
+Question 132. Two fundamental concepts that need to be understood when talking about identity and access control are authentication and authorization. One of the differences between authentication and authorization is that Authentication determines whether users are who they claim to be while Authorization determines what users can and cannot access.
+A. TRUE

@@ -1,0 +1,2 @@
+Question 120 Approaches would be the most efficient way to ensure a naming convention was followed across your subscription
+B. Create a policy with your naming requirements and assign it to the scope of your subscription

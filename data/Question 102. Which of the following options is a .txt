@@ -1,0 +1,2 @@
+Question: Question 102. Which of the following options is a load balancer that includes a Web Application Firewall (WAF) that provides protection from common, known vulnerabilities in websites
+Answer: B. Azure Application Gateway

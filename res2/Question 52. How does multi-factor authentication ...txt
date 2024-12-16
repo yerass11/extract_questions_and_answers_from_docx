@@ -1,0 +1,2 @@
+Question 52. How does multi-factor authentication work
+D. Users authenticate using a password and also either a physical or virtual MFA device.

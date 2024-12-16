@@ -1,0 +1,2 @@
+Question 103 There has been an attack on your public-facing website, and the application has been overwhelmed with requests and is now unavailable to users. What service should you use to prevent this type of attack
+D. DDoS protection

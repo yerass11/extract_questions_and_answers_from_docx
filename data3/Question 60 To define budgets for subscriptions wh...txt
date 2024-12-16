@@ -1,0 +1,2 @@
+Question 60 To define budgets for subscriptions when managing internal Azure billing for your organization, you would use
+B. Azure Cost Management

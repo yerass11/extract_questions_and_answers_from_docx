@@ -1,0 +1,2 @@
+Question: Question 20. Which of the following data solutions would be the most cost-efficient solution for storing and retrieving sales data for your sales team using SQL statements
+Answer: A. Host a database using Azure SQL Database

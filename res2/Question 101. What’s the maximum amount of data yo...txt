@@ -1,0 +1,2 @@
+Question 101. What’s the maximum amount of data you can store in a Redshift cluster when using dense storage nodes
+2 PB.

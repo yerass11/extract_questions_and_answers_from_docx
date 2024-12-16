@@ -1,0 +1,2 @@
+Question 14 Azure Resource Manager enables you to deploy multiple resources using JSON-based templates.
+D. No change is needed

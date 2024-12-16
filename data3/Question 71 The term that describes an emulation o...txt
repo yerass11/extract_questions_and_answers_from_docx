@@ -1,0 +1,2 @@
+Question 71 The term that describes an emulation of a computer, like your desktop or laptop, including an operating system and hardware, is
+D. VM

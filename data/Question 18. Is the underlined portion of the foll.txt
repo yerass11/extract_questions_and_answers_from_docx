@@ -1,0 +1,2 @@
+Question: Question 18. Is the underlined portion of the following statement true, or does it need to be replaced with one of the other fragments that appear below Containers that you deploy in a group Azure support only the Linux OS.
+Answer: B. share the same OS as other containers in the group.

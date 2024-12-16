@@ -1,0 +1,2 @@
+Question 38 To ensure VMs in a resource group do not exceed certain limits for CPU cores and memory
+Azure Policy

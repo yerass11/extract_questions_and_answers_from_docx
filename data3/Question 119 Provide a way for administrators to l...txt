@@ -1,0 +1,2 @@
+Question 119 Provide a way for administrators to lock down Azure resources to prevent deletion or changing of a resource
+D. Resource Locks

@@ -1,0 +1,2 @@
+Question: Question 41. Which of the following would you use to view status information about resources that your organization hosts in Azure
+Answer: B. Azure Service Health

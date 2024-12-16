@@ -1,0 +1,2 @@
+Question: Question 65. Which of the following is not a true statement
+Answer: A. You can use the Azure Mobile App to run the Azure CLI.
